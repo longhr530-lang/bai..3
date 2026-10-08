@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\obj\Debug\net10.0-windows\nguyenhailongb3.Form1.resources
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\obj\Debug\net10.0-windows\nguyenhailongb3.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\obj\Debug\net10.0-windows\nguyenhailongb3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\obj\Debug\net10.0-windows\nguyenhailongb3.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\obj\Debug\net10.0-windows\nguyenhailongb3.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\obj\Debug\net10.0-windows\nguyenhailongb3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\bin\Debug\net10.0-windows\nguyenhailongb3.exe
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\bin\Debug\net10.0-windows\nguyenhailongb3.deps.json
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\bin\Debug\net10.0-windows\nguyenhailongb3.runtimeconfig.json
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\bin\Debug\net10.0-windows\nguyenhailongb3.dll
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\bin\Debug\net10.0-windows\nguyenhailongb3.pdb
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\obj\Debug\net10.0-windows\nguyenhailongb3.dll
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\obj\Debug\net10.0-windows\refint\nguyenhailongb3.dll
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\obj\Debug\net10.0-windows\nguyenhailongb3.pdb
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\obj\Debug\net10.0-windows\nguyenhailongb3.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\obj\Debug\net10.0-windows\ref\nguyenhailongb3.dll
+C:\Users\ASUS\source\repos\nguyenhailongb3\nguyenhailongb3\obj\Debug\net10.0-windows\nguyenha.49C0375C.Up2Date
